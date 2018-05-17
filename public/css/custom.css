@@ -1,0 +1,55 @@
+.navbar-top{
+    background-color: #336699;
+    color: #fff;
+    vertical-align: middle;
+}
+.nav-logo{
+    background-image: url(../image/shutter.jpg);
+}
+.branding {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.brand-menu {
+	margin-top: 20px;
+	float: left;
+}
+.main{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.content-grid{
+    display: block;
+    margin-bottom: 20px;
+    background-color: #fff;
+    line-height: 24px;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .1);
+}
+.content-grid .caption{
+    padding: 9px;
+    color: #666;
+}
+.box-heading{
+    padding: 10px 15px;
+}
+.side-title{
+    padding: 10px;
+    background-color: #444;
+    border-bottom: 3px solid #777;
+    border-radius: 50px;
+    color: #fff;
+}
+.footer{
+    background-color: #262626;
+    padding: 20px 0;
+    margin-top: 5px;
+}
+.footerdesc{
+    color: #fff;
+}
+.side-nav{
+	color:#fff
+}
+.left-side{
+	background-color:#444
+}
